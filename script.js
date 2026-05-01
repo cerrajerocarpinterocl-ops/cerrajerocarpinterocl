@@ -39,7 +39,7 @@ const message = document.getElementById("message").value.trim();
 
 const whatsappMessage = `Hola, soy ${name}. Mi teléfono es ${phone}. Necesito información sobre: ${service}. Detalle: ${message || "Sin detalle adicional"}`;
 
-const url = `https://wa.me/56911111111?text=${encodeURIComponent(whatsappMessage)}`;
+const url = `https://wa.me/56972095216?text=${encodeURIComponent(whatsappMessage)}`;
 window.open(url, "_blank");
 });
 }
