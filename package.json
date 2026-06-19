@@ -1,0 +1,23 @@
+{
+  "name": "cerrajerocarpinterocl",
+  "version": "1.0.0",
+  "description": "Cerrajería profesional 24/7 en Santiago - Website",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cerrajerocarpinterocl-ops/cerrajerocarpinterocl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cerrajerocarpinterocl-ops/cerrajerocarpinterocl/issues"
+  },
+  "homepage": "https://github.com/cerrajerocarpinterocl-ops/cerrajerocarpinterocl#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
